@@ -8,7 +8,6 @@ Group:		Applications
 Source0:	%{name}.tar.gz
 # Source0-md5:	9cebe9808faf64ee3bd3ea88577d77d6
 URL:		http://wklej.to/page/klienty
-Requires:	python-PyQt4
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
