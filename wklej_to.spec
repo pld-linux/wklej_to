@@ -1,12 +1,12 @@
 Summary:	wklej.to service client
 Summary(pl.UTF-8):	Klient serwisu wklej.to
 Name:		wklej_to
-Version:	1
+Version:	1.46
 Release:	1
 License:	GPL
 Group:		Applications
 Source0:	%{name}.tar.gz
-# Source0-md5:	9cebe9808faf64ee3bd3ea88577d77d6
+# Source0-md5:	8050e2127d2259188302e3a7580dd57f
 URL:		http://wklej.to/page/klienty
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
